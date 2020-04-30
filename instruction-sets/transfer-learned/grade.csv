@@ -1,4 +1,5 @@
-instruction,type,frequencyin1,instruction,1766
+instruction,type,frequency
+in1,instruction,1766
 in5,instruction,1766
 in2,instruction,1766
 in3,instruction,1766
@@ -10,13 +11,13 @@ print_integer,instruction,1048
 exec_string_iterate,instruction,871
 exec_do*vector_integer,instruction,743
 print_string,instruction,725
-" grade.",literal,715
-"Student has a ",literal,715
-"C",literal,714
-"F",literal,714
-"B",literal,714
-"A",literal,714
-"D",literal,714
+ grade.,literal,715
+Student has a ,literal,715
+C,literal,714
+F,literal,714
+B,literal,714
+A,literal,714
+D,literal,714
 print_char,instruction,713
 string_length,instruction,663
 vector_integer_reverse,instruction,646
@@ -28,14 +29,15 @@ exec_do*count,instruction,592
 exec_y,instruction,557
 exec_stackdepth,instruction,548
 integer_mod,instruction,527
-\space,literal,510
+ ,literal,510
 exec_dup,instruction,499
 integer_mult,instruction,474
 vector_integer_eq,instruction,472
 print_newline,instruction,456
 exec_dup_times,instruction,450
 char_dup,instruction,410
-\newline,literal,400
+
+,literal,400
 print_float,instruction,392
 exec_do*while,instruction,386
 integer_fromchar,instruction,386
@@ -79,18 +81,18 @@ integer_lte,instruction,175
 string_removechar,instruction,170
 char_isletter,instruction,169
 boolean_dup_times,instruction,168
-\!,literal,167
+!,literal,167
 string_replacefirstchar,instruction,163
 string_frominteger,instruction,162
 integer_fromboolean,instruction,161
 boolean_not,instruction,161
 exec_do*vector_string,instruction,158
 vector_integer_set,instruction,158
-"The number of syllables is ",literal,155
+The number of syllables is ,literal,155
 integer_gte,instruction,152
 float_stackdepth,instruction,152
 boolean_and,instruction,152
-"aeiouy",literal,149
+aeiouy,literal,149
 char_frominteger,instruction,144
 2,literal,143
 exec_do*vector_float,instruction,143
@@ -118,7 +120,7 @@ string_butlast,instruction,116
 string_empty,instruction,114
 boolean_dup_items,instruction,104
 string_dup_times,instruction,103
-"Check sum is ",literal,103
+Check sum is ,literal,103
 vector_integer_dup,instruction,100
 string_first,instruction,99
 string_concat,instruction,97
@@ -138,14 +140,14 @@ vector_float_pushall,instruction,76
 integer_flush,instruction,75
 exec_pop,instruction,74
 [],literal,71
-"small",literal,71
+small,literal,71
 vector_integer_length,instruction,70
 vector_integer_conj,instruction,69
 vector_integer_replace,instruction,68
 string_substring,instruction,65
 string_indexofchar,instruction,65
 vector_integer_replacefirst,instruction,65
-"large",literal,65
+large,literal,65
 boolean_invert_first_then_and,instruction,62
 char_yankdup,instruction,61
 string_yank,instruction,60
@@ -171,26 +173,26 @@ string_flush,instruction,40
 1,literal,39
 string_swap,instruction,39
 string_rot,instruction,39
-\e,literal,38
+e,literal,38
 boolean_yank,instruction,37
 boolean_xor,instruction,37
 vector_integer_indexof,instruction,37
 string_pop,instruction,37
-\y,literal,37
+y,literal,37
 exec_noop,instruction,37
 boolean_rot,instruction,35
 exec_k_when_autoconstructing,instruction,35
 string_shove,instruction,34
-\tab,literal,34
+	,literal,34
 char_shove,instruction,34
 -477,literal,34
 boolean_pop,instruction,33
-\a,literal,33
-\&,literal,33
-\J,literal,33
-\-,literal,33
-\M,literal,33
-\Z,literal,33
+a,literal,33
+&,literal,33
+J,literal,33
+-,literal,33
+M,literal,33
+Z,literal,33
 vector_integer_yankdup,instruction,32
 vector_integer_dup_items,instruction,32
 vector_integer_concat,instruction,32
@@ -200,7 +202,7 @@ string_replace,instruction,31
 integer_fromstring,instruction,29
 vector_float_stackdepth,instruction,29
 char_pop,instruction,28
-\o,literal,27
+o,literal,27
 tagged_879,instruction,26
 tagged_968,instruction,26
 tag_integer_696,instruction,26
@@ -217,7 +219,7 @@ char_yank,instruction,22
 vector_integer_last,instruction,22
 vector_integer_rot,instruction,21
 char_flush,instruction,21
-\u,literal,20
+u,literal,20
 float_swap,instruction,20
 vector_string_pushall,instruction,20
 float_dup,instruction,19
@@ -225,7 +227,7 @@ vector_float_dup,instruction,19
 vector_string_empty,instruction,18
 print_boolean,instruction,17
 vector_integer_butlast,instruction,16
-\i,literal,16
+i,literal,16
 string_nth,instruction,14
 false,literal,14
 5,literal,14
@@ -261,7 +263,7 @@ tagged_223,instruction,7
 vector_integer_pop,instruction,7
 vector_string_dup_items,instruction,7
 vector_string_length,instruction,7
-\`,literal,6
+`,literal,6
 print_vector_string,instruction,6
 vector_float_butlast,instruction,6
 vector_string_yank,instruction,6
@@ -272,13 +274,13 @@ vector_float_yank,instruction,6
 print_exec,instruction,6
 10,literal,6
 vector_integer_first,instruction,6
-\@,literal,5
+@,literal,5
 vector_string_replacefirst,instruction,5
 vector_string_eq,instruction,5
 -76,literal,5
 vector_integer_yank,instruction,5
 vector_float_reverse,instruction,5
-\*,literal,5
+*,literal,5
 vector_string_remove,instruction,5
 tagged_611,instruction,5
 true,literal,5
@@ -346,7 +348,7 @@ tag_char_115,instruction,3
 200,literal,3
 -8669,literal,3
 26,literal,3
-"x*edu-aq60_i",literal,3
+x*edu-aq60_i,literal,3
 vector_float_flush,instruction,3
 3489,literal,3
 -4029,literal,3
@@ -358,29 +360,29 @@ tag_integer_430,instruction,2
 tag_string_166,instruction,2
 -12,literal,2
 tagged_804,instruction,2
-\c,literal,2
+c,literal,2
 tag_vector_string_408,instruction,2
-\d,literal,2
-" + ;i{R0\\+p ",literal,2
+d,literal,2
+ + ;i{R0\+p ,literal,2
 tag_exec_343,instruction,2
 tag_integer_632,instruction,2
-"$,ue3xeh3j|8e^6gf8",literal,2
+$ue3xeh3j|8e^6gf8,literal,2
 77,literal,2
 95,literal,2
 92,literal,2
 tag_string_195,instruction,2
 float_mod,instruction,2
-\),literal,2
+),literal,2
 -92,literal,2
 21,literal,2
 tag_exec_324,instruction,2
 tagged_141,instruction,2
 tagged_834,instruction,2
-"YebHh2O 2)K  ]*_  ",literal,2
+YebHh2O 2)K  ]*_  ,literal,2
 tag_integer_781,instruction,2
-\L,literal,2
+L,literal,2
 vector_float_pop,instruction,2
-"s!\"=ou.?u! z42`1]7o",literal,2
+s!=ou.?u! z42`1]7o,literal,2
 tag_char_776,instruction,2
 float_max,instruction,2
 tag_string_474,instruction,2
@@ -393,9 +395,9 @@ tagged_135,instruction,2
 vector_string_swap,instruction,2
 tag_exec_615,instruction,2
 tag_integer_842,instruction,2
-".f^oo6|yo0*yw`",literal,2
+.f^oo6|yo0*yw`,literal,2
 tag_float_213,instruction,2
-\q,literal,2
+q,literal,2
 -31,literal,2
 tagged_668,instruction,2
 tag_exec_473,instruction,2
@@ -406,7 +408,7 @@ tag_char_857,instruction,2
 vector_string_indexof,instruction,2
 47,literal,2
 float_dec,instruction,2
-"X  +~+)",literal,2
+X  +~+),literal,2
 vector_float_rot,instruction,2
 vector_string_replace,instruction,2
 tagged_220,instruction,2
@@ -421,8 +423,8 @@ vector_float_concat,instruction,2
 float_rot,instruction,2
 vector_string_contains,instruction,2
 tag_vector_integer_522,instruction,2
-\},literal,2
-" #ce~hk&o$\\mie 2eg",literal,2
+},literal,2
+ #ce~hk&o$\mie 2eg,literal,2
 tag_exec_45,instruction,2
 71,literal,2
 vector_float_take,instruction,2
@@ -430,7 +432,7 @@ tagged_175,instruction,2
 tagged_946,instruction,2
 tag_exec_998,instruction,2
 tagged_545,instruction,1
-" X ",literal,1
+ X ,literal,1
 tagged_243,instruction,1
 tagged_856,instruction,1
 tagged_598,instruction,1
@@ -439,7 +441,7 @@ tagged_530,instruction,1
 tagged_791,instruction,1
 -26,literal,1
 tag_string_680,instruction,1
-"  DbMka'vA  eO fm",literal,1
+  DbMka'vA  eO fm,literal,1
 tag_char_95,instruction,1
 tag_exec_258,instruction,1
 tagged_433,instruction,1
