@@ -1,0 +1,18 @@
+frequency,type,instruction
+1,literal, 
+1,instruction,in1
+1,instruction,exec_string_iterate
+1,instruction,char_frominteger
+1,instruction,print_char
+1,instruction,integer_mod
+1,instruction,integer_add
+1,instruction,exec_while
+1,instruction,integer_fromchar
+1,instruction,char_allfromstring
+1,literal,Check sum is 
+1,literal,64
+1,instruction,print_string
+1,instruction,char_dup
+1,instruction,exec_do*times
+1,instruction,exec_noop
+1,instruction,integer_dup

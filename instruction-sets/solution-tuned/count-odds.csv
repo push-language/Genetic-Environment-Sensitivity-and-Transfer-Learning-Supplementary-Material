@@ -1,0 +1,15 @@
+frequency,type,instruction
+11,instruction,in1
+11,instruction,exec_do*vector_integer
+11,instruction,integer_mod
+11,instruction,integer_stackdepth
+9,instruction,integer_add
+5,literal,2
+4,literal,0
+3,instruction,boolean_stackdepth
+1,instruction,integer_inc
+1,instruction,integer_mult
+1,instruction,exec_rot
+1,instruction,vector_integer_empty
+1,instruction,integer_div
+1,instruction,exec_dup_times

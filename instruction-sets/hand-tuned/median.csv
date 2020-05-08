@@ -1,0 +1,8 @@
+frequency,type,instruction
+1,instruction,in1
+1,instruction,in2
+1,instruction,in3
+1,instruction,exec_noop
+1,instruction,integer_min
+1,instruction,integer_max
+1,instruction,print_integer

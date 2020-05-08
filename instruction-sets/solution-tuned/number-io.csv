@@ -1,0 +1,12 @@
+frequency,type,instruction
+99,instruction,in1
+99,instruction,float_frominteger
+99,instruction,print_float
+99,instruction,in2
+97,instruction,float_add
+2,instruction,integer_sub
+2,instruction,float_stackdepth
+2,instruction,float_sub
+2,instruction,float_dup
+2,instruction,float_div
+1,instruction,float_swap

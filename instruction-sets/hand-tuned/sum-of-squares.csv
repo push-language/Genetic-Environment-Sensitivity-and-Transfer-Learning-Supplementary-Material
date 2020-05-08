@@ -1,0 +1,11 @@
+frequency,type,instruction
+1,literal,0
+1,instruction,integer_inc
+1,instruction,integer_mult
+1,instruction,in1
+1,literal,1
+1,instruction,exec_do*count
+1,instruction,integer_add
+1,instruction,exec_noop
+1,instruction,integer_swap
+1,instruction,integer_dup

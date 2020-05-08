@@ -1,0 +1,17 @@
+frequency,type,instruction
+1,instruction,in1
+1,instruction,boolean_or
+1,instruction,boolean_dup
+1,literal,true
+1,instruction,exec_if
+1,literal,false
+1,instruction,boolean_not
+1,instruction,in2
+1,instruction,integer_lt
+1,instruction,exec_noop
+1,instruction,integer_dup
+1,instruction,in3
+1,instruction,boolean_and
+1,instruction,string_length
+1,instruction,exec_when
+1,instruction,string_dup

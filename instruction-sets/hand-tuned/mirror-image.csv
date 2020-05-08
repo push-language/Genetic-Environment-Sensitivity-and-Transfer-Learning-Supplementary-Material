@@ -1,0 +1,6 @@
+frequency,type,instruction
+1,instruction,in1
+1,instruction,in2
+1,instruction,exec_noop
+1,instruction,vector_integer_reverse
+1,instruction,vector_integer_eq

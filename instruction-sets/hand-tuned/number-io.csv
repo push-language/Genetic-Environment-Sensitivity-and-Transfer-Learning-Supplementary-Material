@@ -1,0 +1,9 @@
+frequency,type,instruction
+1,instruction,in1
+1,instruction,in2
+1,instruction,exec_noop
+1,instruction,float_frominteger
+1,instruction,float_add
+1,instruction,float_dup
+1,instruction,integer_dup
+1,instruction,print_float

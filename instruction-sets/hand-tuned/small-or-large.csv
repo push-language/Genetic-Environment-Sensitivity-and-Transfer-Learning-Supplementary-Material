@@ -1,0 +1,17 @@
+frequency,type,instruction
+1,instruction,in1
+1,instruction,integer_gte
+1,instruction,integer_lte
+1,literal,small
+1,literal,1000
+1,literal,2000
+1,literal,999
+1,instruction,exec_if
+1,instruction,print_string
+1,instruction,integer_gt
+1,instruction,integer_lt
+1,instruction,exec_noop
+1,literal,large
+1,instruction,integer_dup
+1,literal,1999
+1,instruction,exec_when

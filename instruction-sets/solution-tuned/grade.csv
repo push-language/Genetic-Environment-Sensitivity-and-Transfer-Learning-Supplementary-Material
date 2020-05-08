@@ -1,0 +1,30 @@
+frequency,type,instruction
+5,instruction,string_shove
+4,instruction,print_string
+2,instruction,in1
+2,instruction,in5
+2,instruction,string_concat
+2,instruction,string_dup_times
+2,literal,C
+2,literal,F
+2,literal,B
+2,literal, grade.
+2,instruction,in2
+2,literal,A
+2,instruction,in3
+2,literal,D
+2,instruction,in4
+2,literal,Student has a 
+1,instruction,boolean_stackdepth
+1,instruction,string_eq
+1,instruction,string_stackdepth
+1,instruction,string_pop
+1,instruction,string_yankdup
+1,instruction,integer_lt
+1,instruction,string_yank
+1,instruction,integer_dec
+1,instruction,string_contains
+1,instruction,string_length
+1,instruction,string_frominteger
+1,instruction,exec_when
+1,instruction,string_dup

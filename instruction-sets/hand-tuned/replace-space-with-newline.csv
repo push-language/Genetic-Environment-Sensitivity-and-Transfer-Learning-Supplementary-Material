@@ -1,0 +1,11 @@
+frequency,type,instruction
+1,literal, 
+1,instruction,in1
+1,literal,
+
+1,instruction,string_replacechar
+1,instruction,print_string
+1,instruction,string_removechar
+1,instruction,exec_noop
+1,instruction,string_length
+1,instruction,string_dup
